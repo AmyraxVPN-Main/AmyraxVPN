@@ -1,1 +1,274 @@
-# AmyraxVPN
+<div align="center">
+
+```
+ ░█████╗░███╗░░░███╗██╗░░░██╗██████╗░░█████╗░██╗░░██╗
+ ██╔══██╗████╗░████║╚██╗░██╔╝██╔══██╗██╔══██╗╚██╗██╔╝
+ ███████║██╔████╔██║░╚████╔╝░██████╔╝███████║░╚███╔╝░
+ ██╔══██║██║╚██╔╝██║░░╚██╔╝░░██╔══██╗██╔══██║░██╔██╗░
+ ██║░░██║██║░╚═╝░██║░░░██║░░░██║░░██║██║░░██║██╔╝╚██╗
+ ╚═╝░░╚═╝╚═╝░░░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝
+```
+
+### 〔 🔐 **V P N**  ·  **S U B S C R I P T I O N** · **L I N K S** 〕
+
+<br>
+
+[![Telegram](https://img.shields.io/badge/کانال_اصلی-AmyraxVPN-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AmyraxVPN)
+[![Telegram](https://img.shields.io/badge/کانال_کانفیگ-AmyraxConfig-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AmyraxConfig)
+
+![Powered by](https://img.shields.io/badge/Powered_by-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-Poleshkan-FF6B6B?style=flat-square&logo=cloudflare&logoColor=white)
+![Status](https://img.shields.io/badge/Status-🟢_Active-00D26A?style=flat-square)
+![Update](https://img.shields.io/badge/Update-Daily-blueviolet?style=flat-square&logo=github-actions)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════╗
+║   🌐  آزادی اینترنت، حق توئه — بدون فیلتر، بدون حد    ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<br>
+
+## ⚡ لینک ساب‌اسکریپشن
+
+> 🔴 **اول VPN روشن کن** — بعد لینک زیر رو کپی کن و توی کلاینتت اضافه کن
+
+<br>
+
+<div align="center">
+
+```
+https://raw.githubusercontent.com/AmyraxVPN-Main/AmyraxVPN/refs/heads/main/Public.txt
+```
+
+</div>
+
+---
+
+## 📲 از کجا لینک بگیرم؟
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│   🔷  t.me/AmyraxVPN     ◄──  کانال اصلی + اخبار  │
+│                                                     │
+│   🔷  t.me/AmyraxConfig  ◄──  کانفیگ + ساب لینک   │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
+
+[![Join AmyraxVPN](https://img.shields.io/badge/🔔_عضو_شو-AmyraxVPN-0088cc?style=for-the-badge&logo=telegram)](https://t.me/AmyraxVPN)
+[![Join AmyraxConfig](https://img.shields.io/badge/🔔_عضو_شو-AmyraxConfig-0088cc?style=for-the-badge&logo=telegram)](https://t.me/AmyraxConfig)
+
+</div>
+
+---
+
+## ⚠️ مهم — قبل از اضافه کردن ساب بخون!
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   🔴  حتماً با یک VPN روشن، ساب رو اضافه کن!              ║
+║                                                              ║
+║   بدون VPN، لینک لود نمیشه و کانفیگ اضافه نمیشه           ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## 📱 کلاینت‌های پشتیبانی‌شده
+
+> ⛔ این کانفیگ‌ها **فقط** روی کلاینت‌های زیر تست و تأیید شدن — روی بقیه کار نمیکنه
+
+<br>
+
+<div align="center">
+
+| سیستم‌عامل | کلاینت | دانلود |
+|:---:|:---:|:---:|
+| 🤖 **اندروید** | V2RayNG | [دانلود از گیتهاب](https://github.com/2dust/v2rayNG/releases/latest) |
+| 🤖 **اندروید** | Happ | [دانلود از Play Store](https://play.google.com/store/apps/details?id=com.happ.vpn) |
+| 🍎 **آیفون** | Streisand | [دانلود از App Store](https://apps.apple.com/us/app/streisand/id6450534064) |
+| 💻 **ویندوز** | V2RayN | [دانلود از گیتهاب](https://github.com/2dust/v2rayN/releases/latest) |
+
+</div>
+
+---
+
+## 🛠️ نصب و راه‌اندازی
+
+<details>
+<summary><b>🤖 اندروید — V2RayNG</b></summary>
+
+<br>
+
+> 🔴 **قبلش یه VPN دیگه روشن کن!**
+
+1. **دانلود** → [V2RayNG از گیتهاب](https://github.com/2dust/v2rayNG/releases/latest)
+2. وارد اپ شو → آیکون ☰ بالا چپ → **Subscription Group Setting**
+3. گوشه بالا راست ➕ بزن
+4. **URL** ساب رو پیست کن → ذخیره کن
+5. برگرد → سه‌نقطه بالا راست → **Update Subscription**
+6. یه سرور انتخاب کن → دکمه وسط رو بزن — وصل شدی! ✅
+
+</details>
+
+<details>
+<summary><b>🤖 اندروید — Happ</b></summary>
+
+<br>
+
+> 🔴 **قبلش یه VPN دیگه روشن کن!**
+
+1. **دانلود** → Happ از Play Store
+2. باز کن → پایین صفحه گزینه **Subscribe** رو بزن
+3. لینک ساب رو **پیست** کن
+4. بزن **Import** — کانفیگ‌ها لود میشن
+5. یه سرور انتخاب کن و وصل شو 🚀
+
+</details>
+
+<details>
+<summary><b>🍎 آیفون — Streisand</b></summary>
+
+<br>
+
+> 🔴 **قبلش یه VPN دیگه روشن کن!**
+
+1. **دانلود** → [Streisand از App Store](https://apps.apple.com/us/app/streisand/id6450534064)
+2. باز کن → پایین صفحه **+** رو بزن
+3. گزینه **Subscribe** رو انتخاب کن
+4. لینک ساب رو پیست کن → **OK**
+5. کانفیگ‌ها اضافه میشن — یکی رو انتخاب کن و وصل شو ✅
+
+</details>
+
+<details>
+<summary><b>💻 ویندوز — V2RayN</b></summary>
+
+<br>
+
+> 🔴 **قبلش یه VPN دیگه روشن کن!**
+
+1. **دانلود** → [V2RayN از گیتهاب](https://github.com/2dust/v2rayN/releases/latest) — فایل `v2rayN-With-Core.zip` رو بگیر
+2. Extract کن → `v2rayN.exe` رو اجرا کن
+3. از منو بالا → **Subscriptions** → **Subscription Group Setting**
+4. ➕ بزن → آدرس ساب رو توی فیلد **URL** بذار → OK
+5. دوباره از منو → **Subscriptions** → **Update Subscription**
+6. از لیست سرور انتخاب کن → کلیک راست → **Set as Active Server**
+7. پایین سیستم‌تری آیکون V2RayN → راست‌کلیک → **System Proxy** → **Set System Proxy** ✅
+
+</details>
+
+---
+
+## 🌐 تکنولوژی پشت صحنه
+
+<div align="center">
+
+```
+     کاربر
+       │
+       ▼
+  ┌─────────┐       ┌──────────────┐      ┌──────────┐
+  │  Client │──────►│   Netlify    │─────►│  Server  │
+  │  (App)  │       │  (CDN/Edge)  │      │  (Core)  │
+  └─────────┘       └──────────────┘      └──────────┘
+       │                   │
+       │            ┌──────┴──────┐
+       │            │ DNS Poleshkan│
+       └───────────►│  (Bypass)   │
+                    └─────────────┘
+```
+
+</div>
+
+| ویژگی | توضیح |
+|:---|:---|
+| ☁️ **Netlify CDN** | تحویل سریع کانفیگ از Edge بدون بلاک شدن |
+| 🌍 **DNS پولشکن** | عبور از فیلتر DNS اپراتورها |
+| 🔄 **Auto Update** | ساب لینک هر روز اتوماتیک آپدیت می‌شه |
+| 🔒 **TLS/REALITY** | رمزنگاری قوی — ناشناخته برای DPI |
+| 🚀 **Multi-Protocol** | VLESS, VMess, Hysteria2, SS — هر چی بخوای |
+
+---
+
+## ❓ سوالات متداول
+
+<details>
+<summary><b>❌ ساب اضافه نمیشه — چیکار کنم؟</b></summary>
+<br>
+مطمئن شو یه <b>VPN دیگه روشنه</b> — بدون VPN لینک لود نمیشه. بعد از وصل شدن به VPN، دوباره امتحان کن.
+</details>
+
+<details>
+<summary><b>❌ روی کلاینت دیگه‌ای امتحان کردم، کار نمیکنه</b></summary>
+<br>
+این کانفیگ‌ها <b>فقط</b> روی V2RayNG و Happ (اندروید)، Streisand (آیفون) و V2RayN (ویندوز) کار میکنن. بقیه کلاینت‌ها پشتیبانی نمیشن.
+</details>
+
+<details>
+<summary><b>❓ چرا گاهی قطع می‌شه؟</b></summary>
+<br>
+سرورها ممکنه فیلتر بشن. کانال رو دنبال کن تا کانفیگ جدید بگیری — معمولاً سریع جایگزین میشه.
+</details>
+
+<details>
+<summary><b>❓ چقدر اینترنت مصرف می‌کنه؟</b></summary>
+<br>
+خود VPN overhead کمی داره — بستگی به سرور و شبکه‌ات داره.
+</details>
+
+---
+
+## 📊 وضعیت سرویس
+
+<div align="center">
+
+![Uptime](https://img.shields.io/badge/Uptime-99.2%25-00D26A?style=for-the-badge)
+![Servers](https://img.shields.io/badge/Servers-🟢_Online-00D26A?style=for-the-badge)
+![Speed](https://img.shields.io/badge/Speed-⚡_Fast-FFD700?style=for-the-badge)
+
+*برای آخرین وضعیت، کانال تلگرام رو چک کن*
+
+</div>
+
+---
+
+<div align="center">
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+         ساخته شده با ❤️  توسط  Amyrax
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+**اگه مفید بود، یه ⭐ بزار و کانال رو به دوستات معرفی کن!**
+
+<br>
+
+[![Star](https://img.shields.io/github/stars/AmyraxVPN?style=social)](.)
+[![Telegram](https://img.shields.io/badge/Telegram-AmyraxVPN-blue?logo=telegram)](https://t.me/AmyraxVPN)
+[![Telegram](https://img.shields.io/badge/Telegram-AmyraxConfig-blue?logo=telegram)](https://t.me/AmyraxConfig)
+
+<br>
+
+> *این پروژه صرفاً جهت استفاده آزاد و قانونی از اینترنت ارائه می‌شود*
+
+</div>
