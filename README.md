@@ -8,8 +8,8 @@
 
 <br>
 
-[![Telegram](https://img.shields.io/badge/کانال_اصلی-AmyraxVPN-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AmyraxVPN)
-[![Telegram](https://img.shields.io/badge/کانال_کانفیگ-AmyraxConfig-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AmyraxConfig)
+[![Telegram](https://img.shields.io/badge/MainChannel-AmyraxVPN-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AmyraxVPN)
+[![Telegram](https://img.shields.io/badge/SecondChannel-AmyraxConfig-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AmyraxConfig)
 
 <br>
 
