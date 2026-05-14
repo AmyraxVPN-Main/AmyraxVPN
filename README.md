@@ -163,7 +163,7 @@ https://raw.githubusercontent.com/AmyraxVPN-Main/AmyraxVPN/refs/heads/main/Publi
 | ویژگی | توضیح |
 |:---|:---|
 | ☁️ **Netlify CDN** | تحویل سریع کانفیگ از Edge بدون بلاک شدن |
-| 🌍 **DNS پولشکن** | عبور از فیلتر DNS اپراتورها |
+| 🌍 **DNS شکن** | عبور از فیلتر DNS اپراتورها |
 | 🔄 **Auto Update** | ساب لینک هر روز اتوماتیک آپدیت می‌شه |
 | 🔒 **TLS / REALITY** | رمزنگاری قوی — ناشناخته برای DPI |
 | 🚀 **Multi-Protocol** | VLESS · VMess — هر چی بخوای |
