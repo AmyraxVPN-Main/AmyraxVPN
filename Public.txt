@@ -1,37 +1,207 @@
-vless://AmyraxVPN-AmyraxConfig@104.198.14.52:443?encryption=none&security=tls&sni=50.7.5.83&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=musical-dolphin-7aa056.netlify.app&path=%2FAmyraxVPN-AmyraxConfig&mode=auto&extra=%7B%22xPaddingBytes%22%3A%221-1%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22headers%22%3A%7B%22x-host%22%3A%22https%3A%2F%2Fpanel.wowad.cam%22%7D%2C%22xPaddingKey%22%3A%22freedom%22%2C%22xPaddingHeader%22%3A%22freedom%22%7D#%F0%9F%8C%90%20AmyraxVPN%20%7C%20Public%203%20%23001
-vless://AmyraxVPN-AmyraxConfig@104.198.14.52:443?encryption=none&security=tls&sni=50.7.87.2&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=musical-dolphin-7aa056.netlify.app&path=%2FAmyraxVPN-AmyraxConfig&mode=auto&extra=%7B%22xPaddingBytes%22%3A%221-1%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22headers%22%3A%7B%22x-host%22%3A%22https%3A%2F%2Fpanel.wowad.cam%22%7D%2C%22xPaddingKey%22%3A%22freedom%22%2C%22xPaddingHeader%22%3A%22freedom%22%7D#%F0%9F%8C%90%20AmyraxVPN%20%7C%20Public%203%20%23002
-vless://AmyraxVPN-AmyraxConfig@104.198.14.52:443?encryption=none&security=tls&sni=50.7.87.3&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=musical-dolphin-7aa056.netlify.app&path=%2FAmyraxVPN-AmyraxConfig&mode=auto&extra=%7B%22xPaddingBytes%22%3A%221-1%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22headers%22%3A%7B%22x-host%22%3A%22https%3A%2F%2Fpanel.wowad.cam%22%7D%2C%22xPaddingKey%22%3A%22freedom%22%2C%22xPaddingHeader%22%3A%22freedom%22%7D#%F0%9F%8C%90%20AmyraxVPN%20%7C%20Public%203%20%23003
-vless://AmyraxVPN-AmyraxConfig@104.198.14.52:443?encryption=none&security=tls&sni=50.7.87.4&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=musical-dolphin-7aa056.netlify.app&path=%2FAmyraxVPN-AmyraxConfig&mode=auto&extra=%7B%22xPaddingBytes%22%3A%221-1%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22headers%22%3A%7B%22x-host%22%3A%22https%3A%2F%2Fpanel.wowad.cam%22%7D%2C%22xPaddingKey%22%3A%22freedom%22%2C%22xPaddingHeader%22%3A%22freedom%22%7D#%F0%9F%8C%90%20AmyraxVPN%20%7C%20Public%203%20%23004
-vless://AmyraxVPN-AmyraxConfig@104.198.14.52:443?encryption=none&security=tls&sni=50.7.87.5&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=musical-dolphin-7aa056.netlify.app&path=%2FAmyraxVPN-AmyraxConfig&mode=auto&extra=%7B%22xPaddingBytes%22%3A%221-1%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22headers%22%3A%7B%22x-host%22%3A%22https%3A%2F%2Fpanel.wowad.cam%22%7D%2C%22xPaddingKey%22%3A%22freedom%22%2C%22xPaddingHeader%22%3A%22freedom%22%7D#%F0%9F%8C%90%20AmyraxVPN%20%7C%20Public%203%20%23005
-vless://AmyraxVPN-AmyraxConfig@104.198.14.52:443?encryption=none&security=tls&sni=75.2.60.5&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=musical-dolphin-7aa056.netlify.app&path=%2FAmyraxVPN-AmyraxConfig&mode=auto&extra=%7B%22xPaddingBytes%22%3A%221-1%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22headers%22%3A%7B%22x-host%22%3A%22https%3A%2F%2Fpanel.wowad.cam%22%7D%2C%22xPaddingKey%22%3A%22freedom%22%2C%22xPaddingHeader%22%3A%22freedom%22%7D#%F0%9F%8C%90%20AmyraxVPN%20%7C%20Public%203%20%23006
-vless://AmyraxVPN-AmyraxConfig@104.198.14.52:443?encryption=none&security=tls&sni=144.76.1.88&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=musical-dolphin-7aa056.netlify.app&path=%2FAmyraxVPN-AmyraxConfig&mode=auto&extra=%7B%22xPaddingBytes%22%3A%221-1%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22headers%22%3A%7B%22x-host%22%3A%22https%3A%2F%2Fpanel.wowad.cam%22%7D%2C%22xPaddingKey%22%3A%22freedom%22%2C%22xPaddingHeader%22%3A%22freedom%22%7D#%F0%9F%8C%90%20AmyraxVPN%20%7C%20Public%203%20%23007
-vless://AmyraxVPN-AmyraxConfig@104.198.14.52:443?encryption=none&security=tls&sni=104.21.33.34&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=musical-dolphin-7aa056.netlify.app&path=%2FAmyraxVPN-AmyraxConfig&mode=auto&extra=%7B%22xPaddingBytes%22%3A%221-1%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22headers%22%3A%7B%22x-host%22%3A%22https%3A%2F%2Fpanel.wowad.cam%22%7D%2C%22xPaddingKey%22%3A%22freedom%22%2C%22xPaddingHeader%22%3A%22freedom%22%7D#%F0%9F%8C%90%20AmyraxVPN%20%7C%20Public%203%20%23008
-vless://AmyraxVPN-AmyraxConfig@104.198.14.52:443?encryption=none&security=tls&sni=188.114.98.0&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=musical-dolphin-7aa056.netlify.app&path=%2FAmyraxVPN-AmyraxConfig&mode=auto&extra=%7B%22xPaddingBytes%22%3A%221-1%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22headers%22%3A%7B%22x-host%22%3A%22https%3A%2F%2Fpanel.wowad.cam%22%7D%2C%22xPaddingKey%22%3A%22freedom%22%2C%22xPaddingHeader%22%3A%22freedom%22%7D#%F0%9F%8C%90%20AmyraxVPN%20%7C%20Public%203%20%23009
-vless://AmyraxVPN-AmyraxConfig@104.198.14.52:443?encryption=none&security=tls&sni=188.114.99.0&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=musical-dolphin-7aa056.netlify.app&path=%2FAmyraxVPN-AmyraxConfig&mode=auto&extra=%7B%22xPaddingBytes%22%3A%221-1%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22headers%22%3A%7B%22x-host%22%3A%22https%3A%2F%2Fpanel.wowad.cam%22%7D%2C%22xPaddingKey%22%3A%22freedom%22%2C%22xPaddingHeader%22%3A%22freedom%22%7D#%F0%9F%8C%90%20AmyraxVPN%20%7C%20Public%203%20%23010
-vless://AmyraxVPN-AmyraxConfig@104.198.14.52:443?encryption=none&security=tls&sni=3.162.247.34&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=musical-dolphin-7aa056.netlify.app&path=%2FAmyraxVPN-AmyraxConfig&mode=auto&extra=%7B%22xPaddingBytes%22%3A%221-1%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22headers%22%3A%7B%22x-host%22%3A%22https%3A%2F%2Fpanel.wowad.cam%22%7D%2C%22xPaddingKey%22%3A%22freedom%22%2C%22xPaddingHeader%22%3A%22freedom%22%7D#%F0%9F%8C%90%20AmyraxVPN%20%7C%20Public%203%20%23011
-vless://AmyraxVPN-AmyraxConfig@104.198.14.52:443?encryption=none&security=tls&sni=3.162.247.38&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=musical-dolphin-7aa056.netlify.app&path=%2FAmyraxVPN-AmyraxConfig&mode=auto&extra=%7B%22xPaddingBytes%22%3A%221-1%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22headers%22%3A%7B%22x-host%22%3A%22https%3A%2F%2Fpanel.wowad.cam%22%7D%2C%22xPaddingKey%22%3A%22freedom%22%2C%22xPaddingHeader%22%3A%22freedom%22%7D#%F0%9F%8C%90%20AmyraxVPN%20%7C%20Public%203%20%23012
-vless://AmyraxVPN-AmyraxConfig@104.198.14.52:443?encryption=none&security=tls&sni=3.162.247.45&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=musical-dolphin-7aa056.netlify.app&path=%2FAmyraxVPN-AmyraxConfig&mode=auto&extra=%7B%22xPaddingBytes%22%3A%221-1%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22headers%22%3A%7B%22x-host%22%3A%22https%3A%2F%2Fpanel.wowad.cam%22%7D%2C%22xPaddingKey%22%3A%22freedom%22%2C%22xPaddingHeader%22%3A%22freedom%22%7D#%F0%9F%8C%90%20AmyraxVPN%20%7C%20Public%203%20%23013
-vless://AmyraxVPN-AmyraxConfig@104.198.14.52:443?encryption=none&security=tls&sni=3.162.247.77&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=musical-dolphin-7aa056.netlify.app&path=%2FAmyraxVPN-AmyraxConfig&mode=auto&extra=%7B%22xPaddingBytes%22%3A%221-1%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22headers%22%3A%7B%22x-host%22%3A%22https%3A%2F%2Fpanel.wowad.cam%22%7D%2C%22xPaddingKey%22%3A%22freedom%22%2C%22xPaddingHeader%22%3A%22freedom%22%7D#%F0%9F%8C%90%20AmyraxVPN%20%7C%20Public%203%20%23014
-vless://AmyraxVPN-AmyraxConfig@104.198.14.52:443?encryption=none&security=tls&sni=3.33.186.135&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=musical-dolphin-7aa056.netlify.app&path=%2FAmyraxVPN-AmyraxConfig&mode=auto&extra=%7B%22xPaddingBytes%22%3A%221-1%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22headers%22%3A%7B%22x-host%22%3A%22https%3A%2F%2Fpanel.wowad.cam%22%7D%2C%22xPaddingKey%22%3A%22freedom%22%2C%22xPaddingHeader%22%3A%22freedom%22%7D#%F0%9F%8C%90%20AmyraxVPN%20%7C%20Public%203%20%23015
-vless://AmyraxVPN-AmyraxConfig@104.198.14.52:443?encryption=none&security=tls&sni=63.176.8.218&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=musical-dolphin-7aa056.netlify.app&path=%2FAmyraxVPN-AmyraxConfig&mode=auto&extra=%7B%22xPaddingBytes%22%3A%221-1%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22headers%22%3A%7B%22x-host%22%3A%22https%3A%2F%2Fpanel.wowad.cam%22%7D%2C%22xPaddingKey%22%3A%22freedom%22%2C%22xPaddingHeader%22%3A%22freedom%22%7D#%F0%9F%8C%90%20AmyraxVPN%20%7C%20Public%203%20%23016
-vless://AmyraxVPN-AmyraxConfig@104.198.14.52:443?encryption=none&security=tls&sni=85.10.207.48&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=musical-dolphin-7aa056.netlify.app&path=%2FAmyraxVPN-AmyraxConfig&mode=auto&extra=%7B%22xPaddingBytes%22%3A%221-1%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22headers%22%3A%7B%22x-host%22%3A%22https%3A%2F%2Fpanel.wowad.cam%22%7D%2C%22xPaddingKey%22%3A%22freedom%22%2C%22xPaddingHeader%22%3A%22freedom%22%7D#%F0%9F%8C%90%20AmyraxVPN%20%7C%20Public%203%20%23017
-vless://AmyraxVPN-AmyraxConfig@104.198.14.52:443?encryption=none&security=tls&sni=94.130.33.41&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=musical-dolphin-7aa056.netlify.app&path=%2FAmyraxVPN-AmyraxConfig&mode=auto&extra=%7B%22xPaddingBytes%22%3A%221-1%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22headers%22%3A%7B%22x-host%22%3A%22https%3A%2F%2Fpanel.wowad.cam%22%7D%2C%22xPaddingKey%22%3A%22freedom%22%2C%22xPaddingHeader%22%3A%22freedom%22%7D#%F0%9F%8C%90%20AmyraxVPN%20%7C%20Public%203%20%23018
-vless://AmyraxVPN-AmyraxConfig@104.198.14.52:443?encryption=none&security=tls&sni=95.216.69.37&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=musical-dolphin-7aa056.netlify.app&path=%2FAmyraxVPN-AmyraxConfig&mode=auto&extra=%7B%22xPaddingBytes%22%3A%221-1%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22headers%22%3A%7B%22x-host%22%3A%22https%3A%2F%2Fpanel.wowad.cam%22%7D%2C%22xPaddingKey%22%3A%22freedom%22%2C%22xPaddingHeader%22%3A%22freedom%22%7D#%F0%9F%8C%90%20AmyraxVPN%20%7C%20Public%203%20%23019
-vless://AmyraxVPN-AmyraxConfig@104.198.14.52:443?encryption=none&security=tls&sni=104.198.14.52&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=musical-dolphin-7aa056.netlify.app&path=%2FAmyraxVPN-AmyraxConfig&mode=auto&extra=%7B%22xPaddingBytes%22%3A%221-1%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22headers%22%3A%7B%22x-host%22%3A%22https%3A%2F%2Fpanel.wowad.cam%22%7D%2C%22xPaddingKey%22%3A%22freedom%22%2C%22xPaddingHeader%22%3A%22freedom%22%7D#%F0%9F%8C%90%20AmyraxVPN%20%7C%20Public%203%20%23020
-vless://AmyraxVPN-AmyraxConfig@104.198.14.52:443?encryption=none&security=tls&sni=104.21.63.202&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=musical-dolphin-7aa056.netlify.app&path=%2FAmyraxVPN-AmyraxConfig&mode=auto&extra=%7B%22xPaddingBytes%22%3A%221-1%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22headers%22%3A%7B%22x-host%22%3A%22https%3A%2F%2Fpanel.wowad.cam%22%7D%2C%22xPaddingKey%22%3A%22freedom%22%2C%22xPaddingHeader%22%3A%22freedom%22%7D#%F0%9F%8C%90%20AmyraxVPN%20%7C%20Public%203%20%23021
-vless://AmyraxVPN-AmyraxConfig@104.198.14.52:443?encryption=none&security=tls&sni=15.197.167.90&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=musical-dolphin-7aa056.netlify.app&path=%2FAmyraxVPN-AmyraxConfig&mode=auto&extra=%7B%22xPaddingBytes%22%3A%221-1%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22headers%22%3A%7B%22x-host%22%3A%22https%3A%2F%2Fpanel.wowad.cam%22%7D%2C%22xPaddingKey%22%3A%22freedom%22%2C%22xPaddingHeader%22%3A%22freedom%22%7D#%F0%9F%8C%90%20AmyraxVPN%20%7C%20Public%203%20%23022
-vless://AmyraxVPN-AmyraxConfig@104.198.14.52:443?encryption=none&security=tls&sni=172.67.150.14&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=musical-dolphin-7aa056.netlify.app&path=%2FAmyraxVPN-AmyraxConfig&mode=auto&extra=%7B%22xPaddingBytes%22%3A%221-1%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22headers%22%3A%7B%22x-host%22%3A%22https%3A%2F%2Fpanel.wowad.cam%22%7D%2C%22xPaddingKey%22%3A%22freedom%22%2C%22xPaddingHeader%22%3A%22freedom%22%7D#%F0%9F%8C%90%20AmyraxVPN%20%7C%20Public%203%20%23023
-vless://AmyraxVPN-AmyraxConfig@104.198.14.52:443?encryption=none&security=tls&sni=204.12.196.34&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=musical-dolphin-7aa056.netlify.app&path=%2FAmyraxVPN-AmyraxConfig&mode=auto&extra=%7B%22xPaddingBytes%22%3A%221-1%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22headers%22%3A%7B%22x-host%22%3A%22https%3A%2F%2Fpanel.wowad.cam%22%7D%2C%22xPaddingKey%22%3A%22freedom%22%2C%22xPaddingHeader%22%3A%22freedom%22%7D#%F0%9F%8C%90%20AmyraxVPN%20%7C%20Public%203%20%23024
-vless://AmyraxVPN-AmyraxConfig@104.198.14.52:443?encryption=none&security=tls&sni=35.157.26.135&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=musical-dolphin-7aa056.netlify.app&path=%2FAmyraxVPN-AmyraxConfig&mode=auto&extra=%7B%22xPaddingBytes%22%3A%221-1%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22headers%22%3A%7B%22x-host%22%3A%22https%3A%2F%2Fpanel.wowad.cam%22%7D%2C%22xPaddingKey%22%3A%22freedom%22%2C%22xPaddingHeader%22%3A%22freedom%22%7D#%F0%9F%8C%90%20AmyraxVPN%20%7C%20Public%203%20%23025
-vless://AmyraxVPN-AmyraxConfig@104.198.14.52:443?encryption=none&security=tls&sni=52.222.214.38&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=musical-dolphin-7aa056.netlify.app&path=%2FAmyraxVPN-AmyraxConfig&mode=auto&extra=%7B%22xPaddingBytes%22%3A%221-1%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22headers%22%3A%7B%22x-host%22%3A%22https%3A%2F%2Fpanel.wowad.cam%22%7D%2C%22xPaddingKey%22%3A%22freedom%22%2C%22xPaddingHeader%22%3A%22freedom%22%7D#%F0%9F%8C%90%20AmyraxVPN%20%7C%20Public%203%20%23026
-vless://AmyraxVPN-AmyraxConfig@104.198.14.52:443?encryption=none&security=tls&sni=52.222.214.99&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=musical-dolphin-7aa056.netlify.app&path=%2FAmyraxVPN-AmyraxConfig&mode=auto&extra=%7B%22xPaddingBytes%22%3A%221-1%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22headers%22%3A%7B%22x-host%22%3A%22https%3A%2F%2Fpanel.wowad.cam%22%7D%2C%22xPaddingKey%22%3A%22freedom%22%2C%22xPaddingHeader%22%3A%22freedom%22%7D#%F0%9F%8C%90%20AmyraxVPN%20%7C%20Public%203%20%23027
-vless://AmyraxVPN-AmyraxConfig@104.198.14.52:443?encryption=none&security=tls&sni=54.232.119.62&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=musical-dolphin-7aa056.netlify.app&path=%2FAmyraxVPN-AmyraxConfig&mode=auto&extra=%7B%22xPaddingBytes%22%3A%221-1%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22headers%22%3A%7B%22x-host%22%3A%22https%3A%2F%2Fpanel.wowad.cam%22%7D%2C%22xPaddingKey%22%3A%22freedom%22%2C%22xPaddingHeader%22%3A%22freedom%22%7D#%F0%9F%8C%90%20AmyraxVPN%20%7C%20Public%203%20%23028
-vless://AmyraxVPN-AmyraxConfig@104.198.14.52:443?encryption=none&security=tls&sni=65.109.34.234&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=musical-dolphin-7aa056.netlify.app&path=%2FAmyraxVPN-AmyraxConfig&mode=auto&extra=%7B%22xPaddingBytes%22%3A%221-1%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22headers%22%3A%7B%22x-host%22%3A%22https%3A%2F%2Fpanel.wowad.cam%22%7D%2C%22xPaddingKey%22%3A%22freedom%22%2C%22xPaddingHeader%22%3A%22freedom%22%7D#%F0%9F%8C%90%20AmyraxVPN%20%7C%20Public%203%20%23029
-vless://AmyraxVPN-AmyraxConfig@104.198.14.52:443?encryption=none&security=tls&sni=94.130.70.160&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=musical-dolphin-7aa056.netlify.app&path=%2FAmyraxVPN-AmyraxConfig&mode=auto&extra=%7B%22xPaddingBytes%22%3A%221-1%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22headers%22%3A%7B%22x-host%22%3A%22https%3A%2F%2Fpanel.wowad.cam%22%7D%2C%22xPaddingKey%22%3A%22freedom%22%2C%22xPaddingHeader%22%3A%22freedom%22%7D#%F0%9F%8C%90%20AmyraxVPN%20%7C%20Public%203%20%23030
-vless://AmyraxVPN-AmyraxConfig@104.198.14.52:443?encryption=none&security=tls&sni=138.201.54.122&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=musical-dolphin-7aa056.netlify.app&path=%2FAmyraxVPN-AmyraxConfig&mode=auto&extra=%7B%22xPaddingBytes%22%3A%221-1%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22headers%22%3A%7B%22x-host%22%3A%22https%3A%2F%2Fpanel.wowad.cam%22%7D%2C%22xPaddingKey%22%3A%22freedom%22%2C%22xPaddingHeader%22%3A%22freedom%22%7D#%F0%9F%8C%90%20AmyraxVPN%20%7C%20Public%203%20%23031
-vless://AmyraxVPN-AmyraxConfig@104.198.14.52:443?encryption=none&security=tls&sni=142.54.178.211&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=musical-dolphin-7aa056.netlify.app&path=%2FAmyraxVPN-AmyraxConfig&mode=auto&extra=%7B%22xPaddingBytes%22%3A%221-1%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22headers%22%3A%7B%22x-host%22%3A%22https%3A%2F%2Fpanel.wowad.cam%22%7D%2C%22xPaddingKey%22%3A%22freedom%22%2C%22xPaddingHeader%22%3A%22freedom%22%7D#%F0%9F%8C%90%20AmyraxVPN%20%7C%20Public%203%20%23032
-vless://AmyraxVPN-AmyraxConfig@104.198.14.52:443?encryption=none&security=tls&sni=172.67.158.128&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=musical-dolphin-7aa056.netlify.app&path=%2FAmyraxVPN-AmyraxConfig&mode=auto&extra=%7B%22xPaddingBytes%22%3A%221-1%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22headers%22%3A%7B%22x-host%22%3A%22https%3A%2F%2Fpanel.wowad.cam%22%7D%2C%22xPaddingKey%22%3A%22freedom%22%2C%22xPaddingHeader%22%3A%22freedom%22%7D#%F0%9F%8C%90%20AmyraxVPN%20%7C%20Public%203%20%23033
-vless://AmyraxVPN-AmyraxConfig@104.198.14.52:443?encryption=none&security=tls&sni=184.171.110.10&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=musical-dolphin-7aa056.netlify.app&path=%2FAmyraxVPN-AmyraxConfig&mode=auto&extra=%7B%22xPaddingBytes%22%3A%221-1%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22headers%22%3A%7B%22x-host%22%3A%22https%3A%2F%2Fpanel.wowad.cam%22%7D%2C%22xPaddingKey%22%3A%22freedom%22%2C%22xPaddingHeader%22%3A%22freedom%22%7D#%F0%9F%8C%90%20AmyraxVPN%20%7C%20Public%203%20%23034
-vless://AmyraxVPN-AmyraxConfig@104.198.14.52:443?encryption=none&security=tls&sni=52.222.214.108&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=musical-dolphin-7aa056.netlify.app&path=%2FAmyraxVPN-AmyraxConfig&mode=auto&extra=%7B%22xPaddingBytes%22%3A%221-1%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22headers%22%3A%7B%22x-host%22%3A%22https%3A%2F%2Fpanel.wowad.cam%22%7D%2C%22xPaddingKey%22%3A%22freedom%22%2C%22xPaddingHeader%22%3A%22freedom%22%7D#%F0%9F%8C%90%20AmyraxVPN%20%7C%20Public%203%20%23035
-vless://AmyraxVPN-AmyraxConfig@104.198.14.52:443?encryption=none&security=tls&sni=52.222.214.124&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=musical-dolphin-7aa056.netlify.app&path=%2FAmyraxVPN-AmyraxConfig&mode=auto&extra=%7B%22xPaddingBytes%22%3A%221-1%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22headers%22%3A%7B%22x-host%22%3A%22https%3A%2F%2Fpanel.wowad.cam%22%7D%2C%22xPaddingKey%22%3A%22freedom%22%2C%22xPaddingHeader%22%3A%22freedom%22%7D#%F0%9F%8C%90%20AmyraxVPN%20%7C%20Public%203%20%23036
-vless://AmyraxVPN-AmyraxConfig@104.198.14.52:443?encryption=none&security=tls&sni=63.141.252.203&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=musical-dolphin-7aa056.netlify.app&path=%2FAmyraxVPN-AmyraxConfig&mode=auto&extra=%7B%22xPaddingBytes%22%3A%221-1%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22headers%22%3A%7B%22x-host%22%3A%22https%3A%2F%2Fpanel.wowad.cam%22%7D%2C%22xPaddingKey%22%3A%22freedom%22%2C%22xPaddingHeader%22%3A%22freedom%22%7D#%F0%9F%8C%90%20AmyraxVPN%20%7C%20Public%203%20%23037
+{
+  "name": "Amyrax Max V2",
+  "log": {
+    "disabled": false,
+    "level": "warn",
+    "timestamp": false
+  },
+  "experimental": {
+    "clash_api": {
+      "external_controller": "127.0.0.1:9090",
+      "store_selected": true,
+      "cache_file": "clash.db"
+    }
+  },
+  "dns": {
+    "servers": [
+      {
+        "address": "https://1.1.1.1/dns-query",
+        "address_resolver": "dns-local",
+        "strategy": "ipv4_only",
+        "tag": "dns-remote-cf",
+        "detour": "ssh-out"
+      },
+      {
+        "address": "https://8.8.8.8/dns-query",
+        "address_resolver": "dns-local",
+        "strategy": "ipv4_only",
+        "tag": "dns-remote-google",
+        "detour": "ssh-out"
+      },
+      {
+        "address": "local",
+        "detour": "direct",
+        "tag": "dns-local"
+      },
+      {
+        "address": "rcode:\/\/success",
+        "tag": "dns-block"
+      }
+    ],
+    "rules": [
+      {
+        "domain": [
+          "70.34.216.135",
+          "github.com",
+          "githubusercontent.com"
+        ],
+        "server": "dns-local"
+      },
+      {
+        "domain_suffix": [
+          "ir"
+        ],
+        "server": "dns-local"
+      },
+      {
+        "outbound": "direct",
+        "server": "dns-local"
+      }
+    ],
+    "final": "dns-remote-cf",
+    "reverse_mapping": true,
+    "strategy": "ipv4_only",
+    "independent_cache": true,
+    "fakeip": {
+      "enabled": true,
+      "inet4_range": "198.18.0.0/15"
+    }
+  },
+  "inbounds": [
+    {
+      "listen": "127.0.0.1",
+      "listen_port": 6450,
+      "override_address": "8.8.8.8",
+      "override_port": 53,
+      "tag": "dns-in",
+      "type": "direct"
+    },
+    {
+      "type": "tun",
+      "tag": "tun-in",
+      "domain_strategy": "ipv4_only",
+      "interface_name": "tun0",
+      "inet4_address": "172.19.0.1\/30",
+      "mtu": 1400,
+      "auto_route": true,
+      "strict_route": true,
+      "stack": "system",
+      "endpoint_independent_nat": true,
+      "sniff": true,
+      "sniff_override_destination": true
+    },
+    {
+      "domain_strategy": "ipv4_only",
+      "listen": "127.0.0.1",
+      "listen_port": 2080,
+      "sniff": true,
+      "sniff_override_destination": true,
+      "tag": "mixed-in",
+      "type": "mixed"
+    }
+  ],
+  "outbounds": [
+    {
+      "type": "socks",
+      "tag": "SSH+UDP",
+      "server": "127.0.0.1",
+      "server_port": 2000,
+      "version": "5",
+      "udp_over_tcp": true,
+      "network": "tcp",
+      "detour": "ssh-out"
+    },
+    {
+      "type": "ssh",
+      "tag": "ssh-out",
+      "server": "70.34.216.135",
+      "server_port": 46744,
+      "user": "ca4674d8-3764-4fc0-8227-4e51f20b5f00",
+      "private_key": "-----BEGIN OPENSSH PRIVATE KEY-----\nb3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAAAMwAAAAtzc2gtZWQyNTUx\nOQAAACDUZRWBdgEUM9h2Dn8Hzz/gLrLGqByFO7tu6eBUyWm+SgAAAIjcrpwW3K6cFgAAAAtzc2gt\nZWQyNTUxOQAAACDUZRWBdgEUM9h2Dn8Hzz/gLrLGqByFO7tu6eBUyWm+SgAAAEDn5xoSXV3n98+N\n8N7sNi/mfpi0pp+C/47q4yuZWYKn4NRlFYF2ARQz2HYOfwfPP+AussaoHIU7u27p4FTJab5KAAAA\nAAECAwQF\n-----END OPENSSH PRIVATE KEY-----\n",
+      "host_key": [
+        "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAM0GKULasAGbO61Vn16iDJl1yeGkUNvWqagpX6Nrd28 hiddify-panel@vultr\n",
+        "ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBNtvJEsBVNIExa4ANgr3ElAhRCc+ySfYZ79PUcIVbM0btisQVhvhtVBqneFYXHRV89CqrEFwxeJ0DCWAAuvnufI= hiddify-panel@vultr\n",
+        "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC+9+eJhIN8IV2lzvki46rYbUPWYSUbgyI7s/QapM6ktFtxuMhgXS2xG+Bj5h40IxglQtneUslwsTI9UBVyuY37YkOfy6UmtP2Lbsh9SBNpg/gkRnaz7LEnmiJe04J3PreLWFATHGn5ddxCrk5tXvC6fz6aRTGSefACFCNwEwsRiGf7RmBHCIo+xpbTBY2erdgojOkErFnL2QaaDiHB69+8FpmtUUDF/iY1qqdfviTf9E3CrDnyDR2mu0JlX+oeGPu0LDbAHqZdiMUesB01bThSIV4YgoJzDUiOGOKBXrRpd5gkRDMEWC+oHTVGnnburKVrdjMRc3/H0LP4JNwHsu/yA/QMFZacxKpBntQrHIYJSEWwdiMt8fFa1ycnw6166cw/XetO/BUUIADdM5k8ajnWkcCi9LgsO4eGMVjDNfzTf2IYL538PxUzLEGS/3GqHd4Dvz8nzEosb9jF2zLo+Sss+QIJbom1zwWMhvEAKJFkrPDHqk114/gmskHKrDl9Xek= hiddify-panel@vultr\n"
+      ]
+    },
+    {
+      "tag": "direct",
+      "type": "direct"
+    },
+    {
+      "tag": "bypass",
+      "type": "direct"
+    },
+    {
+      "tag": "block",
+      "type": "block"
+    },
+    {
+      "tag": "dns-out",
+      "type": "dns"
+    }
+  ],
+  "route": {
+    "auto_detect_interface": true,
+    "override_android_vpn": true,
+    "final": "SSH+UDP",
+    "geoip": {
+      "download_url": "https:\/\/github.com\/malikshi\/sing-box-geo\/releases\/latest\/download\/geoip.db",
+      "download_detour": "direct"
+    },
+    "geosite": {
+      "download_url": "https:\/\/github.com\/malikshi\/v2ray-rules-dat\/releases\/latest\/download\/geosite.db",
+      "download_detour": "direct"
+    },
+    "rules": [
+      {
+        "outbound": "dns-out",
+        "port": [
+          53
+        ]
+      },
+      {
+        "inbound": [
+          "dns-in"
+        ],
+        "outbound": "dns-out"
+      },
+      {
+        "geosite": [
+          "category-ads-all"
+        ],
+        "outbound": "block"
+      },
+      {
+        "domain_suffix": [
+          "ir"
+        ],
+        "outbound": "bypass"
+      },
+      {
+        "geoip": [
+          "ir"
+        ],
+        "outbound": "bypass"
+      },
+      {
+        "protocol": "quic",
+        "port": [
+          443
+        ],
+        "outbound": "block"
+      },
+      {
+        "ip_cidr": [
+          "224.0.0.0\/3",
+          "ff00::\/8"
+        ],
+        "outbound": "block",
+        "source_ip_cidr": [
+          "224.0.0.0\/3",
+          "ff00::\/8"
+        ]
+      }
+    ]
+  }
+}
