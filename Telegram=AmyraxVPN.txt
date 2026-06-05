@@ -1,5 +1,5 @@
 {
-  "name": "Amyrax Max V2",
+  "name": "Amyrax Max V3",
   "log": {
     "disabled": false,
     "level": "warn",
@@ -41,7 +41,7 @@
     "rules": [
       {
         "domain": [
-          "70.34.216.135",
+          "70.34.222.19",
           "github.com",
           "githubusercontent.com"
         ],
@@ -114,14 +114,14 @@
     {
       "type": "ssh",
       "tag": "ssh-out",
-      "server": "70.34.216.135",
-      "server_port": 46744,
-      "user": "ca4674d8-3764-4fc0-8227-4e51f20b5f00",
-      "private_key": "-----BEGIN OPENSSH PRIVATE KEY-----\nb3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAAAMwAAAAtzc2gtZWQyNTUx\nOQAAACDUZRWBdgEUM9h2Dn8Hzz/gLrLGqByFO7tu6eBUyWm+SgAAAIjcrpwW3K6cFgAAAAtzc2gt\nZWQyNTUxOQAAACDUZRWBdgEUM9h2Dn8Hzz/gLrLGqByFO7tu6eBUyWm+SgAAAEDn5xoSXV3n98+N\n8N7sNi/mfpi0pp+C/47q4yuZWYKn4NRlFYF2ARQz2HYOfwfPP+AussaoHIU7u27p4FTJab5KAAAA\nAAECAwQF\n-----END OPENSSH PRIVATE KEY-----\n",
+      "server": "70.34.222.19",
+      "server_port": 33227,
+      "user": "199602b0-8a64-44e7-bf7a-74d2f4b9a97f",
+      "private_key": "-----BEGIN OPENSSH PRIVATE KEY-----\nb3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAAAMwAAAAtzc2gtZWQyNTUx\nOQAAACAn2PBGljr4mOb2lPpmSppMd6XwJxk+oRFkeXwJ4kZzXwAAAIhukjmnbpI5pwAAAAtzc2gt\nZWQyNTUxOQAAACAn2PBGljr4mOb2lPpmSppMd6XwJxk+oRFkeXwJ4kZzXwAAAEAABJPtXKmv9CQr\nokgbaFFYEpOR4BZhCwPz5LemMcrlgifY8EaWOviY5vaU+mZKmkx3pfAnGT6hEWR5fAniRnNfAAAA\nAAECAwQF\n-----END OPENSSH PRIVATE KEY-----\n",
       "host_key": [
-        "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAM0GKULasAGbO61Vn16iDJl1yeGkUNvWqagpX6Nrd28 hiddify-panel@vultr\n",
-        "ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBNtvJEsBVNIExa4ANgr3ElAhRCc+ySfYZ79PUcIVbM0btisQVhvhtVBqneFYXHRV89CqrEFwxeJ0DCWAAuvnufI= hiddify-panel@vultr\n",
-        "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC+9+eJhIN8IV2lzvki46rYbUPWYSUbgyI7s/QapM6ktFtxuMhgXS2xG+Bj5h40IxglQtneUslwsTI9UBVyuY37YkOfy6UmtP2Lbsh9SBNpg/gkRnaz7LEnmiJe04J3PreLWFATHGn5ddxCrk5tXvC6fz6aRTGSefACFCNwEwsRiGf7RmBHCIo+xpbTBY2erdgojOkErFnL2QaaDiHB69+8FpmtUUDF/iY1qqdfviTf9E3CrDnyDR2mu0JlX+oeGPu0LDbAHqZdiMUesB01bThSIV4YgoJzDUiOGOKBXrRpd5gkRDMEWC+oHTVGnnburKVrdjMRc3/H0LP4JNwHsu/yA/QMFZacxKpBntQrHIYJSEWwdiMt8fFa1ycnw6166cw/XetO/BUUIADdM5k8ajnWkcCi9LgsO4eGMVjDNfzTf2IYL538PxUzLEGS/3GqHd4Dvz8nzEosb9jF2zLo+Sss+QIJbom1zwWMhvEAKJFkrPDHqk114/gmskHKrDl9Xek= hiddify-panel@vultr\n"
+        "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIK44f9p0l5giStQoFkpWHxqz0HK8jtvALVVdNlHZxfy1 hiddify-panel@vultr\n",
+        "ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBPc5Pz9QmgItBokELbCe7w8KL/862o30XFyu1V2pXpZ6dJgfHkXrFeZI/6WaMEze/i/ZDz95XOAmo0NAtNFFMbg= hiddify-panel@vultr\n",
+        "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCrq5tgNOHpDMWok2Dxdb83BBrqtHV7eGuDRp/YTsIQTV7/+ALn0sqYDJyy9aXdzXT3GLmM/dxpfvyFATYBbA0AoJXA9tfyGJkZhuasM24nZIM4NXATuFA52HIJ5VvIvEct0d9bIuhMUNcsoLtwQMIg8pRVJDvFiR6rDT9ksT5+LidHx/IV9A2K2qIBYd/9V0/tEfiliewkewMHbqHFYvfOZL4Xk17Hg9AstD/oEm8/+sA5YmxZzWQILqRAHUzhekrUvnUeaF/TXICtFfWKjNslvQVMtiGVXLmwy0Tre4cbWeTRK7tSHQ2eVW8aiA4s4kOcMlrFpOSyD4fI+HCR40PMTyvynEirJNLtZ/8eKIVriAHC8vXpbaFi4RoY42zsra+Ae0tI7Y+vo756PxzwhnE94Dns+X17y1IIlo6e/Vf9l9Qd0FPJMN1mFKPuiVmHgd5qFeo11E1g78P46D6o9qqim+VFPqkuRPKC6jKOEUFw90asGJmBJvTeB5+hHeXtwEk= hiddify-panel@vultr\n"
       ]
     },
     {
