@@ -38,10 +38,10 @@
         "rules": [
             {
                 "domain": [
-                    "165.22.149.151",
+                    "95.182.89.173",
                     "github.com",
                     "githubusercontent.com",
-                    "165.22.149.151"
+                    "95.182.89.173"
                 ],
                 "server": "dns-local"
             },
@@ -109,11 +109,11 @@
             "type": "ssh",
             "tag": "ssh-out",
             //"client_version": "SSH-2.0-OpenSSH_7.4p1",
-            "server": "165.22.149.151",
-            "server_port": 16882,
-            "user": "6223b7fd-f247-4945-8c8f-3c897e55c283",
-            "private_key": "-----BEGIN OPENSSH PRIVATE KEY-----\nb3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAAAMwAAAAtzc2gtZWQyNTUx\nOQAAACCaa57BaAGEPRB8Z9hmA2+j5aE/25FvCfDUo4sVV79MewAAAIhQ8xGbUPMRmwAAAAtzc2gt\nZWQyNTUxOQAAACCaa57BaAGEPRB8Z9hmA2+j5aE/25FvCfDUo4sVV79MewAAAEBdzziOqY35UHQb\nNPap33TDD7ZEAy5BN/n1FFQg6ivTVpprnsFoAYQ9EHxn2GYDb6PloT/bkW8J8NSjixVXv0x7AAAA\nAAECAwQF\n-----END OPENSSH PRIVATE KEY-----\n", //ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJprnsFoAYQ9EHxn2GYDb6PloT/bkW8J8NSjixVXv0x7
-            "host_key": ["ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOfto2CkAbRCOmb38JkD/dunxPHNNFc8lX5bl2hrgmVr hiddify-panel@B4HzfVpiotsCsLy9DTVI\n", "ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBPPmqrhEN93TshXVJqNXiCNVwVqEtAsnyGIF9Ld2PeawQP3tcbG3HTkC+5BqZ5ZosanRM0XATHDcE5l0A7h48/w= hiddify-panel@B4HzfVpiotsCsLy9DTVI\n", "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCYPx7mb1zkccfJy6KrYh+p7cxjgfydrdsn9li2T8WK3QpPnCO99USBLoM13ALrhHMUs080E98ILiYXkm9X8Gmymm1/oZwhP6SvPebAgYkHXtsN50M5IZlB+ClB1bZbBC4dp29PQmXke6rAQazAryOygMbSqVAQ7UpeNfNT7Cl+nS9DPu+ynaWD+Q9dMwX80xQ3mrEoyNTF3BXGy6wphZuXbx70cPlEvXlfljWEyJw2rGG1MjxhVPYi1C5VJip8GfOqg6uRf47n/FX/WscUZPVynUSaFf5ULMGjC3mpS6Gs6Nrr3DM1ABBcIXdza32cJmxtDkXTmlOCws4EaI4pJ1bEZ2VBnO5hUMoMs0J6uJpSbVXcJECu3TRHZHZJd39RGvHRb6XEN3o6qEijtc1OU6V0YtjTgEoFBEF5KbEf/MOvpbFVko352BMexpMMOiR+HtBZMKSnXBrEL4gU6YXA7gcI8for7KPGK0z01KvMcZyrRtyUXmdnKSQ7uM6RqigCQ+E= hiddify-panel@B4HzfVpiotsCsLy9DTVI\n"]
+            "server": "95.182.89.173",
+            "server_port": 48209,
+            "user": "bd0930f4-a827-41df-9809-cc9f0e3fda68",
+            "private_key": "-----BEGIN OPENSSH PRIVATE KEY-----\nb3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAAAMwAAAAtzc2gtZWQyNTUx\nOQAAACAPtVakzmvG3pGtwFbrKYOUVA2D6IaR25dEl2nb713legAAAIgy753MMu+dzAAAAAtzc2gt\nZWQyNTUxOQAAACAPtVakzmvG3pGtwFbrKYOUVA2D6IaR25dEl2nb713legAAAEBQb2ez68IgrInX\nrRzBejw34VCXctj0c/l0P/+y4sz1Qw+1VqTOa8beka3AVuspg5RUDYPohpHbl0SXadvvXeV6AAAA\nAAECAwQF\n-----END OPENSSH PRIVATE KEY-----\n", //ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIA+1VqTOa8beka3AVuspg5RUDYPohpHbl0SXadvvXeV6
+            "host_key": ["ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAevNrTtq2kx1VSxQbSux5RuCXPkEPRwKmbw43MzHbyc hiddify-panel@nex1612619220-7330104\n", "ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBDx1BuA3umJ8O2i+vQMxeLPP5hTruwElk80LI0oXvNGBbYmlvRttXtvtum1LuzSNzYtJXx498/e9/OeOhsPzKcc= hiddify-panel@nex1612619220-7330104\n", "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC/Cu0vWOSNSEMz/g8JSQeUzNv0X02mHuYyrN+cFXz8X2iZYwgh+44XbCHCv+et5lg/O+/B+y648sUDXrb8fJTFTBSdSwsJ1ecgKO9g/pbq/uH0W/1j+ryVvKrnjeSrlq/CBFaQVZoezluGlv2e4I/6HAR51lLnT0IDecYYVNL50SaSZAA1VY30JMR/5T1KNE0r9Rg3K37tJnHFmmcPevJKk/JWcwFe92Nw8ZA/Bej8Wz50EW6xOmBsCqNAnmuSrNMfR8snYlfUF9YfsGF7GlPPsPk0JfL9odhTbITR7VkvlEy0WeP+wVEvbI9mQQnqDxMX7QdgRLI6zaC92TPjbLn0jfBEtNFsPUklgD3BQDICpEA3iJiyI2lNm1291CN47oIj8M3MTLWRUmigRAeZBD9HaGeW13aNDNq6WiYcp+JX4OHkGE3A4l86mhRxbn2Q0hopWjsAModWgF0opPyKWH50j8xXc2mJ0wxRoQnf9IFLemxoa/Yh+nfz1LKeSZoxY8M= hiddify-panel@nex1612619220-7330104\n"]
         },
         {
             "tag": "direct",
@@ -137,7 +137,7 @@
         "override_android_vpn": true,
         "final": "SSH+UDP",
         // "geoip": {
-        //             "download_url": "https://165.22.149.151/RLwWG2HDmsK/gh/malikshi/sing-box-geo/releases/latest/download/geoip.db",
+        //             "download_url": "https://95.182.89.173/7wlsd8yQ0bAal341N/gh/malikshi/sing-box-geo/releases/latest/download/geoip.db",
         // //    "download_url": "https:\/\/github.com\/malikshi\/sing-box-geo\/releases\/latest\/download\/geoip.db",
         //     "download_detour": "direct"
         // },
